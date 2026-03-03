@@ -24,3 +24,16 @@ body{
     min-height: 100vh; 
 
 }
+
+.sidebar{
+    width:240px;
+    min-height:100vh; 
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0 ; /* This positions the top of the sidebar at the very top of the screen */
+    left : 0 ; 
+    z-index: 100 ;  
+}
