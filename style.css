@@ -208,7 +208,7 @@ nav{
 .stat-card.yellow::before { background: var(--yellow); }
 
 .stat-icon  { font-size: 28px; margin-bottom: 10px; }
-.stat-value { font-family: 'Syne', sans-serif; font-size: 32px; font-weight: 800; }
+.stat-value { font-family: 'DM Sans', sans-serif; font-size: 32px; font-weight: 800; }
 .stat-label { font-size: 13px; color: var(--muted); margin-top: 2px; }
 
 /* ===== CARDS ===== */
